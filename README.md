@@ -21,19 +21,37 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
+      <br>JavaScript<br>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:TypeScript&style=flat-square&color=blue&label=time"/>
+      <br>TypeScript<br>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
+      <br>Python<br>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
+      <br>Docker<br>
+    </td>
+        <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopware/shopware-original.svg" width="48" height="48" alt="Shopware" />
+      <br>Shopware 6<br>
+    </td>
+     </td>
+        <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="48" height="48" alt="blender" />
+      <br>blender<br>
+    </td>
+      </td>
+        <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="premierepro" />
+      <br>PremierePro<br>
+    </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="aftereffects" />
+      <br>After Effects<br>
     </td>
   </tr>
 </table>
