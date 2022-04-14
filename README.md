@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## ⚙️ Code Skills
+## ⚙️ My Skills
 <table>
   <tr>
     <td align="center" width="96">
