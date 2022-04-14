@@ -35,7 +35,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker<br>
     </td>
-        <td align="center" width="96">
+        <td align="center" width="110">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopware/shopware-original.svg" width="48" height="48" alt="Shopware" />
       <br>Shopware 6<br>
     </td>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="premierepro" />
       <br>PremierePro<br>
     </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="aftereffects" />
       <br>After Effects<br>
     </td>
