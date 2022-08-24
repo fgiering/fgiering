@@ -56,3 +56,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+[![fgierings GitHub stats](https://github-readme-stats.vercel.app/api?username=fgiering&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=fgiering&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only)
