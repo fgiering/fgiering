@@ -53,6 +53,10 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="aftereffects" />
       <br>After Effects<br>
     </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="aftereffects" />
+      <br>Photoshop<br>
+    </td>
   </tr>
 </table>
 
