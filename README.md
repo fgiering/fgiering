@@ -60,4 +60,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-[![fgierings GitHub stats](https://github-readme-stats.vercel.app/api?username=fgiering&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=fgiering&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only)
+<!--[![fgierings GitHub stats](https://github-readme-stats.vercel.app/api?username=fgiering&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=fgiering&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only)-->
+![fgiering's Stats](https://github-readme-stats.vercel.app/api?username=fgiering&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![fgiering's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fgiering&theme=vue-dark&hide_border=true)
+![fgiering's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgiering&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
