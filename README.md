@@ -46,11 +46,11 @@ Here are some ideas to get you started:
     </td>
       </td>
         <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="premierepro" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" width="48" height="48" alt="premierepro" />
       <br>PremierePro<br>
     </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="aftereffects" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg" width="48" height="48" alt="aftereffects" />
       <br>After Effects<br>
     </td>
       <td align="center" width="120">
